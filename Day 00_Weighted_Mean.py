@@ -1,4 +1,4 @@
-n = input()
+n = int(input())
 
 elements = raw_input()
 weights = raw_input()

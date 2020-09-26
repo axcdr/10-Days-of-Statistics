@@ -1,5 +1,5 @@
 import math
-n = raw_input()
+n = int(raw_input())
 data = raw_input()
 data = data.split(' ')
 data = [int(i) for i in data]
